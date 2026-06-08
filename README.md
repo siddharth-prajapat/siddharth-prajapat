@@ -1,5 +1,5 @@
-# 👋Hi, I'm Siddharth Prajapat
-# 💫 About Me:
+## 👋Hi, I'm Siddharth Prajapat
+## 💫About Me:-
 A motivated BCA undergraduate with a passion for problem-solving, continuous learning, and technology. Driven by curiosity and a desire to expand technical knowledge while building practical skills in software development and digital technologies.<br><br>A creative and analytical thinker with a strong understanding of Computer Science fundamentals, including object-oriented programming, data structures, algorithms, and complexity analysis. Enjoys tackling challenges, exploring new technologies, and developing efficient solutions to real-world problems.<br><br>Currently expanding skills in web development and UI/UX design while continuously improving technical and creative abilities. Adaptable, detail-oriented, and capable of working effectively both independently and within collaborative team environments.<br><br>Committed to personal and professional growth, with a strong work ethic, excellent learning ability, and a dedication to delivering quality results in every project.
 
 
